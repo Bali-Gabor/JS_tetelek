@@ -119,3 +119,28 @@ function kivalogatas(tomb){
 }
 
 console.log('7.\tA tömbben található páros számok: ' + kivalogatas(szamok));
+
+
+//Keresés tétele
+
+var tulajdonsag = 43;
+
+function kereses(tomb, keres){
+    let i = 0;
+    let sorszam = 0;
+
+    while(i <= tomb.length && tomb[i] != keres){
+        i ++;
+    }
+    if(i <= tomb.length){
+        sorszam = i;
+    }
+    else{
+        sorszam = -1;
+    }
+    return sorszam;
+}
+
+console.log('8.\tA keresett szám az: ' + kereses(szamok, tulajdonsag) + ' indexen található.');
+
+

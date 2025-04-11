@@ -1,0 +1,37 @@
+1. Összegzés tétel (Summing)
+Összegzés
+2. Maximális elem keresése
+Maximum kiválasztás
+3. Eldöntés tétel (Decision)
+Eldöntés
+4. Számolás tétel (Counting)
+Megszámolás
+5. Minimális elem keresése
+Minimum kiválasztás
+6. Elemek helyének keresése
+Keresés
+7. Kiválasztás tétel
+kiválasztás
+8. Kiválogatás tétel (Selection)
+Kiválogatás
+9. Átlagolás tétel (Averaging)
+Átlag
+10. Szétválogatás tétel (Partitioning)
+Szétválogatás
+11. Unió tétel (Union)
+Unió tétel
+12. Metszet tétel (Intersection)
+Metszet
+13. Különbség tétel (Difference)
+Különbség
+14. Elemek összehasonlítása
+15. Fordított sorrendbe rendezés
+16. Rendezés tétel (Sorting)
+
+Rendezések
+Buborék rendezés
+Cserés rendezés
+Rendezés maximumkiválasztással
+Beszúrásos rendezés
+Gyorsrendezés
+Shell rendezés
